@@ -8,8 +8,6 @@ This project presents a comprehensive analysis of Ace Superstore’s sales data 
 
 ---
 
-## ✅ Acceptance Criteria & Approach
-
 ### 1. Data Quality Assessment
 
 - **Missing Values**: Detected and dropped rows with missing `Sales`, `Cost Price`, `Discount`, `Category`, and `Sub-Category`.
