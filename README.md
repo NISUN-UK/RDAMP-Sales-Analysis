@@ -27,11 +27,11 @@ This project presents a comprehensive analysis of Ace Superstore’s sales data 
 
 📊 **Visuals**:
 
-![Sales Heatmap](Revenue.png)
+![Sales Heatmap](Nika_Strok_Underwood_Sales.png)
 
-![Revenue Heatmap](Revenue.png)
+![Revenue Heatmap](Nika_Strok_Underwood_Revenue.png)
 
-![Discount Rate Heatmap](Discount%Rate.png)
+![Discount Rate Heatmap](Nika_Strok_Underwood_Discount_Rate.png)
 
 
 ---
@@ -43,9 +43,9 @@ This project presents a comprehensive analysis of Ace Superstore’s sales data 
 
 📊 **Visuals**:
 
-![Top 5 Segments Bar Graph](Top%5%Segments.png)
+![Top 5 Segments Bar Graph](Nika_Strok_Underwood_Top_5_Segments.png)
 
-![Bottom 5 Segments Bar Graph](Bottom%5%Segments.png)
+![Bottom 5 Segments Bar Graph](Nika_Strok_Underwood_Bottom_5_Segments.png)
 
 ---
 
@@ -60,9 +60,9 @@ This project presents a comprehensive analysis of Ace Superstore’s sales data 
 
 📊 **Visuals**:
 
-![Top 10 Sub-Categories Bar Graph](Top%10%Sub-Categories.png)
+![Top 10 Sub-Categories Bar Graph](Nika_Strok_Underwood_Top_10_Sub-Categories.png)
 
-![Top 10 Categories Bar Graph](Top%10%Categories.png)
+![Top 10 Categories Bar Graph](Nika_Strok_Underwood_Top_10_Categories.png)
 
 ---
 
@@ -74,7 +74,7 @@ This project presents a comprehensive analysis of Ace Superstore’s sales data 
 
 📊 **Visual**:  
 
-![Order Mode Distribution](Order%Mode.png)
+![Order Mode Distribution](Nika_Strok_Underwood_Order_Mode.png)
 
 ---
 
