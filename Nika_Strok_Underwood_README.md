@@ -1,5 +1,6 @@
 # RDAMP-Sales-Analysis
 
+### Author: Nika Strok Underwood
 🛍️ Ace Superstore Retail Data Analysis
 
 ## Overview
